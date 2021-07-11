@@ -1,3 +1,2 @@
-this is for git test, cheers
-dwadw
-测试2
+This is a learning notes for PyTorch
+From PyTorch Tutorial
