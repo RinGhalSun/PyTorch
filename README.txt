@@ -1,5 +1,3 @@
-This is a learning notes for PyTorch
-From PyTorch Tutorial
+Pytorch documents for project.
 
-test2
-test3
+Design a trust-worthy decision making system to detect plant leaf disease.
